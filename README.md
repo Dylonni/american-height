@@ -1,3 +1,4 @@
+![alt text](https://github.com/DylanAumis/american-height/blob/master/client/src/assets/img/logo8carte.png?raw=trues=200) 
 # American-eight
 Multiplayer card game with Vue.Js /Express.Js , it is clearly not finished though.
 only the auth module works but still needs to be changed.
