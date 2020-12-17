@@ -3,22 +3,22 @@ Multiplayer card game with Vue.Js /Express.Js , it is clearly not finished thoug
 only the auth module works but still needs to be changed.
 
 
-### Install depedencies first on both server and client sides (which means your need two shells)
+### Install depedencies first on both server and client sides (which means you need two shells)
 
 ```
 npm install
 ```
 
-### On server you need then to run
+### On the server shell you need to run
 
 ```
 npm run start
 ```
 
-### Client side you will need to run
+### On the client shell you will need to run
 
 ```
 npm run dev
 ```
 
-### Then connect to localhost:8080
+### You can now connect to localhost:8080
