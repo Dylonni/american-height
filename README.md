@@ -21,4 +21,4 @@ npm run start
 npm run dev
 ```
 
-### You can now connect to localhost:8080
+### You can now connect to localhost:8080 on your web browser to try the app
