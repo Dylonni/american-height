@@ -1,4 +1,4 @@
-# american-height
+# American-eight
 Multiplayer card game with Vue.Js /Express.Js , it is clearly not finished though.
 only the auth module works but still needs to be changed.
 
@@ -21,4 +21,4 @@ npm run start
 npm run dev
 ```
 
-### You can now connect to localhost:8080 on your web browser to try the app
+## You can now connect to localhost:8080 on your web browser to try the app
