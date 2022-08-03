@@ -4,7 +4,7 @@ Multiplayer card game with Vue.Js /Express.Js , it is clearly not finished thoug
 only the auth module works but still needs to be changed.
 
 
-### Install depedencies first on both server and client sides (which means you need two shells)
+### Install depedencies first on both server and client sides (which means you might need two shells)
 
 ```
 npm install
